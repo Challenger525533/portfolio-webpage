@@ -1,0 +1,22 @@
+.Title {
+  text-align: left;
+}
+
+.Title-bars img {
+  margin-left: 2vmin;
+  margin-right: 2vmin;
+  height: 5vmin;
+  transition: transform 0.5s ease-in-out
+}
+
+.Title-header {
+  background-color: #214891;
+  min-height: 5vh;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: left;
+  font-size: 2vmin;
+  font-family: 'Roboto', sans-serif;
+  color: white;
+}
